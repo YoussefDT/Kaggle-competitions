@@ -1,2 +1,2 @@
-# sales_ecuador_sub
-predict sales at stores located in Ecuador
+# kaggle competitionq
+Each notebook corresponds to one competition on kaggle.
